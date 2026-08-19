@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-## Owen · "reshir0m"
+## Owen · `reshir0m`
 
-Software Engineer from Washington in the United States. 🇺🇲
-
-I basically work on whatever I find cool and interesting.
+Hi, I'm Owen also known as reshir0m or Reshi, I'm currently a Computer Programming student from Washington in the United States 🇺🇲. I mostly build things I think are cool
 
 My main tech stack is Python, Bash, and C#.
 
