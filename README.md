@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Owen, better known as reshir0m or Reshi, I'm a Software Engineer from Washington in the United States. 🇺🇲
+Owen · 'reshir0m'
+Software Engineer from Washington in the United States. 🇺🇲
 
 I basically work on whatever I find cool and interesting.
 
