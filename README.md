@@ -12,12 +12,12 @@ Hi🖖😊, I'm Owen also known as reshir0m or Reshi, I'm currently a Computer P
 ### Main Rig
 | Host | Role | Specs |
 |--- | --- | --- |
-| `oblivion` | Daily driver — Fedora 44, KDE Plasma | i9-12900K · Nvidia Geforce RTX 3080 · 32GB Corsair Dominator Platinum RAM |
+| `oblivion` | Daily driver — Fedora 44, KDE Plasma | i9-12900K · Nvidia Geforce RTX 3080 · 32GB Corsair Dominator Platinum |
 
 ### Homelab
 | Host | Role | Specs |
 |--- | --- | --- |
-| `oathkeeper` | Proxmox hypervisor — services and NAS storage | Ryzen 7 2700X · Nvidia Geforce GTX 1050ti · 32GB Corsair Vengeance RAM · 500GB SSD OS Drive · 3x 1 TB HDD |
+| `oathkeeper` | Proxmox hypervisor — services and NAS storage | Ryzen 7 2700X · Nvidia Geforce GTX 1050ti · 32GB Corsair Vengeance · 500GB SSD OS Drive · 3x 1 TB HDD |
 - Game servers in Docker — Minecraft (vanilla)
 - TrueNAS virtual machine on the bulk drives: pools named after stars starting with `vega`
 - Tailscale for remote access
