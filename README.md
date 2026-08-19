@@ -21,7 +21,7 @@ Hi🖖😊, I'm Owen also known as reshir0m or Reshi, I'm currently a Computer P
 - Game servers in Docker — Minecraft (vanilla)
 - TrueNAS virtual machine on the bulk drives: pools named after stars starting with `vega`
 - Tailscale for remote access
-- Compose stacks live in a specialized directory
+- Compose stacks live in `~/servers`
 
 <!--
 **reshir0m/reshir0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
