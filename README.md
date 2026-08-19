@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hey! 🖖😊
 
 ### Owen · `reshir0m`
 
 Hi, I'm Owen also known as reshir0m or Reshi, I'm currently a Computer Programming student from Washington in the United States 🇺🇲. I mostly build things I think are cool. My main tech stack is Python, Bash, and C#.
 
-| A Few Things About Me |
+| A Little About Me |
 - Yes both of my rigs are named after Keyblades from Kingdom Hearts.
 - I like anime, manga, and video games.
 - Spider-Man is my favorite superhero.
-
+- I've been working with computers since I was 7 years old.
 
 ### Main Rig
 | Host | Role | Specs |
