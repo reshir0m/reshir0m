@@ -9,6 +9,7 @@ Hi, I'm Owen also known as reshir0m or Reshi, I'm currently a Computer Programmi
 - I like anime, manga, and video games.
 - Spider-Man is my favorite superhero.
 - I've been working with computers since I was 7 years old.
+- I love space!
 
 ### Main Rig
 | Host | Role | Specs |
@@ -18,7 +19,7 @@ Hi, I'm Owen also known as reshir0m or Reshi, I'm currently a Computer Programmi
 ### Homelab
 | Host | Role | Specs |
 |--- | --- | --- |
-| `oathkeeper` | Proxmox hypervisor — services and NAS storage | Ryzen 7 2700X · Nvidia Geforce GTX 1050ti · 32GB Corsair Vengeance RAM · 500GB SSD OS Drive · 3x 1 TB HDDs {passed through to a TrueNAS VM} |
+| `oathkeeper` | Proxmox hypervisor — services and NAS storage | Ryzen 7 2700X · Nvidia Geforce GTX 1050ti · 32GB Corsair Vengeance RAM · 500GB SSD OS Drive · 3x 1 TB HDD |
 - Game servers in Docker — Minecraft (vanilla)
 - TrueNAS virtual machine on the bulk drives: pools named after stars starting with `vega`
 - Tailscale for remote access
