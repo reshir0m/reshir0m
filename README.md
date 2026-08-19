@@ -3,6 +3,14 @@
 <!--
 **reshir0m/reshir0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+My name is Owen, better known as Zipper, I'm a Software Engineer from Washington in the United States. 🇺🇲
+
+I basically work on whatever I find cool and interesting.
+
+My main tech stack is Python, Bash, and C#.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
