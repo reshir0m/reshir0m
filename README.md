@@ -15,7 +15,7 @@ want to exist, then spend longer keeping them running than I spent building them
 ### Main Rig
 | Host | Role | Specs |
 |--- | --- | --- |
-| `oblivion` | Daily driver — Fedora 44, KDE Plasma | i9-12900K · Nvidia Geforce RTX 3080 · 32GB Corsair Dominator Platinum |
+| `oblivion` | OS — Windows 11 Home | i9-12900K · Nvidia Geforce RTX 3080 · 32GB Corsair Dominator Platinum |
 
 ### Homelab
 | Host | Role | Specs |
